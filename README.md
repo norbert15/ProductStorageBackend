@@ -1,2 +1,2 @@
-# webshop-backend
-Python fastAPI backend for webshop
+# Product storage backend
+Python fastAPI backend
